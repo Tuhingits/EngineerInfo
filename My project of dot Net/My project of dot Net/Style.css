@@ -1,0 +1,88 @@
+﻿
+.header {
+    color: red;
+    text-align: center;
+}
+
+#nav {
+    background-color: #FF1654;
+    padding: 5px;
+}
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+    font-size: 20px;
+}
+    ul li a {
+        text-decoration: none;
+    }
+
+.register{
+    float:right;
+    margin-left:800px;
+    display:block;
+    clear:both;
+
+}
+.gridview {
+    margin-left: 70px;
+    margin-top: 30px;
+    display: inline-block;
+    color: aqua;
+    background: black;
+    min-height: 15px;
+    border: 6px solid red;
+    font-weight: bold;
+    Box-shadow: 7px 7px 8px red;
+    padding: 10px;
+}
+.search{
+    margin-left:600px;
+    color:blue;
+    font:bold;
+
+}
+.insert {
+    margin-top:25px;
+    margin-left:50px;
+    display:inline-block;
+    color:blue;
+    margin-top:10px;
+    float:left;
+}
+.page {
+    margin-left:220px;
+    font-weight:bold;
+    display:inline-block;
+    background:red;
+    min-height:25px;
+    color: blue;
+}
+.home {
+    font-weight:bold;
+    display: inline-block;
+    background: blue;
+    min-height: 25px;
+    color:white;
+    font-size:medium;
+}
+.ban {
+    
+    
+    display: inline-block;
+    color: aqua;
+    background: black;
+    min-height: 15px;
+    border: 6px solid red;
+    font-weight: bold;
+    Box-shadow: 7px 7px 8px red;
+    padding: 10px;
+}
+
+
+
+
+
+
+
